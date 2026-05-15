@@ -3,7 +3,7 @@
 A Branch Transformer architecture for cross-subject EEG classification,  
 targeting Fatigue and Mental Workload detection across three benchmark datasets.
 
-Designed as a challenger to **EEG-Deformer** (IEEE J-BHI 2024).
+Benchmarked against **EEG-Deformer** (IEEE J-BHI 2024) on Fatigue and Mental Workload classification.
 
 ---
 
